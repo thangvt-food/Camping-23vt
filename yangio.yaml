@@ -1,0 +1,25 @@
+slug: camping-23vt
+name: Camping 23VT
+tagline: Quản lý hoạt động cắm trại lớp 23VT
+url: https://github.com/thangvt-food/Camping-23vt
+status: paused
+visibility: private
+description: Web React + Firebase quản lý đăng ký, chi phí và hoạt động cắm trại của lớp 23VT.
+tags:
+  - lớp-học
+  - cắm-trại
+  - quản-lý
+category: productivity
+tech:
+  - react
+  - vite
+  - firebase
+  - tailwindcss
+hosting: firebase-hosting
+updated: '2025-11-29'
+version: 0.0.0
+icon: 🏕️
+auth: login
+links:
+  repo: https://github.com/thangvt-food/Camping-23vt
+notes: Repo public, có firebase.json; chưa có URL deploy.
